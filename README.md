@@ -1,2 +1,1 @@
-# doughminicano.github.io
-www.doughminicano.com
+# portfolio1 
